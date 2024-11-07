@@ -11,13 +11,13 @@
     right: 0;
     top: 0;
     background-color: lightblue;
-    height: 20vw;
-    width: 20vw;
+    height: 20%;
+    width: 20%;
     border-top-right-radius: 0%;
     border-top-left-radius: 0%;
     border-bottom-right-radius: 0%;
     border-bottom-left-radius: 80%;
-    float: right
+
 }
 
 h1 {
